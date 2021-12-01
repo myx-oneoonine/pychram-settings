@@ -4,9 +4,9 @@
     <extensionMap>
       <mapping pattern="property_decorator.py" type="AUTO_DETECTED" />
       <mapping pattern="aws_credentials" type="AUTO_DETECTED" />
-      <mapping pattern="xxxx" type="AUTO_DETECTED" />
       <mapping pattern="pep8" type="AUTO_DETECTED" />
       <mapping pattern="encrypt_json_value.py" type="AUTO_DETECTED" />
+      <mapping pattern="xxxx" type="AUTO_DETECTED" />
       <mapping ext="python" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
