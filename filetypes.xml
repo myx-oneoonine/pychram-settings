@@ -7,6 +7,10 @@
       <mapping pattern="pep8" type="AUTO_DETECTED" />
       <mapping pattern="encrypt_json_value.py" type="AUTO_DETECTED" />
       <mapping pattern="xxxx" type="AUTO_DETECTED" />
+      <mapping ext="xlsx" type="MyNative" />
+      <mapping ext="xls" type="MyNative" />
+      <removed_mapping ext="xlsx" type="Native" />
+      <removed_mapping ext="xls" type="Native" />
       <mapping ext="python" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
